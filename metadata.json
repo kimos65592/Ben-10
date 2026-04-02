@@ -1,0 +1,5 @@
+{
+  "name": "Ben 10 AI Voice Assistant",
+  "description": "A futuristic 3D voice assistant inspired by Ben 10, powered by Gemini 3.1 Flash Live.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
